@@ -19,7 +19,7 @@ search.addEventListener('click',()=>{
                 weatherBox.style.display='none';
                 weatherdetails.style.display='none';
                 error404.style.display='block';
-                error404.classList.add()='fadeIn';
+                error404.classList.add('fadeIn');
                 return;
 
                 error404.style.display='none';
