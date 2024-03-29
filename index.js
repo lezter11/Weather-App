@@ -66,7 +66,7 @@ search.addEventListener('click',()=>{
             weatherdetails.style.display = '';
             weatherBox.classList.add('fadeIn');
             weatherdetails.classList.add('fadeIn');
-            container.style.height = '590px';
+            container.style.height = '59rem';
         }
     ))
 })
